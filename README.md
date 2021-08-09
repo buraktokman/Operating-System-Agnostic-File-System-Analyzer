@@ -15,11 +15,6 @@ Python script that analyzes file size, type information and file count, size in 
 Accomplishing the aim of this project be done with standard & external python modules, system calls and executing command on the system. That’s why the output of the script separated into two parts. Part 1: Python Modules and Part 2: Commands & System Calls.
 
 
-### USAGE:
-------
-`python analyze.py`
-
-
 ### Instructions
 ------
 
@@ -37,7 +32,7 @@ Accomplishing the aim of this project be done with standard & external python mo
 
 3. Run the script with parameters. Provide directory or folder path to the script.
 
-    `python3 analyze.pyx --file="./" `
+    `python3 analyze.py --file="./" `
 
 ### LICENSE
 ------
