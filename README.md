@@ -19,7 +19,6 @@ Accomplishing the aim of this project be done with standard & external python mo
 ------
 `python analyze.py`
 
-**NOTE:** Register your phone, create Telegram API and modify the script accordingly.
 
 ### Instructions
 ------
